@@ -1,6 +1,6 @@
 Q 1. What is your understanding of Blockchain?
 Ans:Blockchain is the mixture of the several technologies.
-    It’s a mixture of Distributed Database and Cryptography.
+    Itâ€™s a mixture of Distributed Database and Cryptography.
     Blockchain is a distributed database existing on multiple computers at the
     same time. It is constantly growing as new sets of recordings, or 'blocks', are
     added to it.Each block contains a timestamp and a link to the previous block, so they
@@ -31,7 +31,7 @@ Ans:
 Q 4. What all things does a Block Contain?
 Ans:
     1. Block number
-    2. Transavtion records
+    2. Transaction records
     3. Previous block signature
     4. Mining key
 
