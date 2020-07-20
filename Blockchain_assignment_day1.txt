@@ -31,7 +31,7 @@ Ans:
 Q 4. What all things does a Block Contain?
 Ans:
     1. Block number
-    2. Transaction records
+    2. Transaction record
     3. Previous block signature
     4. Mining key
 
